@@ -1,0 +1,7 @@
+graphql-core==3.2.3
+pydantic==1.10.4
+strawberry-graphql==0.154.0
+mypy==0.991
+pytest==7.2.1
+pytest-mock==3.10.0
+Flask==2.2.2
